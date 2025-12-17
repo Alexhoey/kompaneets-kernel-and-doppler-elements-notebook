@@ -1,5 +1,6 @@
 # kompaneets-kernel-and-doppler-elements-notebook
 Mathematica notebook for calculating aberration kernel and Doppler operator elements supporting MPhys project on the Kompaneets equation derivation using the boost operator approach.
+Created by Alex Hoey and Jacob Long with suuport from Jens Chluba.
 
 This notebook:
 
@@ -9,3 +10,5 @@ This notebook:
 The notebook supports the results presented in:
 
 Alex Hoey, A boost operator apprach to the derivation of the Kompaneets equation (2025).
+
+*The contents of this notebook are also available as a subsection to the notebook provided at www.chluba.de/Mathematica.
