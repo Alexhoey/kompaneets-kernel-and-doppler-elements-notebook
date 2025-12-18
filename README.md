@@ -9,6 +9,7 @@ This notebook:
 
 The notebook supports the results presented in:
 
-Alex Hoey, A boost operator apprach to the derivation of the Kompaneets equation (2025).
+Alex Hoey, A boost operator apprach to the derivation of the Kompaneets equation (2025),
+Jacob Long, Boost operator approach: derivation of the Kompaneets equation (2025).
 
 *The contents of this notebook are also available as a subsection to the notebook provided at www.chluba.de/Mathematica.
