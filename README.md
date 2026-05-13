@@ -37,5 +37,5 @@ The notebook supports the results presented in:
 Alex Hoey, A boost operator apprach to the relativistic kinematic SZ effect (2026),
 Jacob Long, ?????????? (2026).
 
-*The contents of this notebook are also available as a subsection to the notebook provided at www.chluba.de/Mathematica.
+*Some of the contents of this notebook are also available as a subsection to the notebook provided at www.chluba.de/Mathematica.
 
