@@ -19,7 +19,7 @@ Jacob Long, Boost operator approach: derivation of the Kompaneets equation (2025
 
 
 # KinematicSZ_notebook
-Mathematica notebook for calculating thermal and kinematic SZ effect supporting MPhys project on the thermal and kinematci SZ using the boost operator approach.
+Mathematica notebook for calculating thermal and kinematic SZ effect supporting MPhys project on the thermal and kinematic SZ using the boost operator approach.
 Created by Alex Hoey and Jacob Long with support from Jens Chluba.
 
 This notebook:
