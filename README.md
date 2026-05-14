@@ -34,8 +34,8 @@ This notebook:
 
 The notebook supports the results presented in:
 
-Alex Hoey, A boost operator apprach to the relativistic kinematic SZ effect (2026),
-Jacob Long, ?????????? (2026).
+Alex Hoey, The relativistic SZ effect using the boost operator formalism (2026),
+Jacob Long, Derivation of the kinematic corrections to the relativistic Sunyaev-Zeldovich effect via the boost operator approach (2026).
 
 *Some of the contents of this notebook are also available as a subsection to the notebook provided at www.chluba.de/Mathematica.
 
